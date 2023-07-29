@@ -1,0 +1,37 @@
+.submit-text {
+  font-weight: 700;
+  font-size: 84px;
+}
+
+.submit-left {
+  margin-top: 50px;
+  width: 600px;
+  background-color: lightgrey;
+  height: 650px;
+  padding-left: 30px;
+  padding-right: 30px;
+  float: left;
+}
+
+.submit-right {
+  margin-top: 50px;
+  width: 600px;
+  background-color: lightgrey;
+  height: 650px;
+  padding-left: 30px;
+  padding-right: 30px;
+  float: right;
+}
+
+#submit-form {
+  text-align: center;
+}
+
+#submit-form::-webkit-scrollbar {
+  display: none;
+}
+
+#submit-form {
+  -ms-overflow-style: none; 
+  scrollbar-width: none;  
+}
