@@ -4,3 +4,10 @@ body {
   margin-left: 250px;
   margin-right: 250px;;
 }
+
+@media (max-width: 900px) {
+  body {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
