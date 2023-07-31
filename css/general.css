@@ -5,7 +5,7 @@ body {
   margin-right: 250px;;
 }
 
-@media (max-width: 2000px) {
+@media (max-width: 1500px) {
   body {
     margin-left: 0;
     margin-right: 0;
